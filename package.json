@@ -1,0 +1,11 @@
+{
+  "name": "anothertest",
+  "version": "1.0.0",
+  "description": "Local inventory management demo app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
