@@ -39,6 +39,14 @@
             Class
             <input type="text" name="category" placeholder="Example: 250cc" required />
           </label>
+          <label>
+            Image URL (optional)
+            <input
+              type="url"
+              name="imageUrl"
+              placeholder="https://example.com/bike-photo.jpg"
+            />
+          </label>
           <div class="field-row">
             <label>
               Quantity
@@ -67,6 +75,7 @@
 
     <template id="product-template">
       <article class="inventory-item">
+        <img class="product-image" alt="" loading="lazy" decoding="async" />
         <div class="inventory-main">
           <div>
             <h3 class="product-name"></h3>

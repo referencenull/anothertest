@@ -161,6 +161,16 @@ button:disabled {
   padding: 18px;
 }
 
+.product-image {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: 14px;
+  margin-bottom: 14px;
+  display: block;
+  background: #dde4ff;
+}
+
 .inventory-main {
   justify-content: space-between;
   align-items: flex-start;
