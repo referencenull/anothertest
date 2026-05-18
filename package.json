@@ -1,5 +1,5 @@
 {
-  "name": "anothertest",
+  "name": "motocross-inventory-demo",
   "version": "1.0.0",
   "description": "Local inventory management demo app",
   "main": "server.js",

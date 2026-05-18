@@ -10,7 +10,7 @@ A small local web application for managing a motocross bike dealership's invento
 
 ## Run locally
 
-1. Open a terminal in `/home/runner/work/anothertest/anothertest`
+1. Open a terminal in the project root directory
 2. Start the app:
 
    ```bash
